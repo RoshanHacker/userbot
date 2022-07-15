@@ -19,6 +19,8 @@ This project helps to manage unlimited plugins repos with one [core repo](https:
 * both windows and linux support
 * optimized boot time
 
+https://heroku.com/deploy?template=https://github.com/RoshanHacker/userbot/
+
 ## Plugins Repo Template
 
 you can fork and edit or refer our [official plugins repo](https://github.com/UsergeTeam/Userge-Plugins)
